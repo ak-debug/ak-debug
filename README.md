@@ -36,7 +36,6 @@ I build reliable test workflows for complex network systems. My work brings toge
 ## `./now`
 
 - Exploring practical AI-assisted engineering workflows
-- Shared network test automation work at Cisco’s Stuttgart office
 
 <div align="center">
 

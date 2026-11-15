@@ -1,42 +1,45 @@
 <div align="center">
 
-# Akshit Kathuria
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:07111f,100:063b32&height=200&section=header&text=AKSHIT%20KATHURIA&fontSize=42&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=NETWORK%20AUTOMATION%20%2F%20SECURITY%20VALIDATION&descAlignY=58&descColor=9af0c5" alt="Akshit Kathuria — network automation and security validation" />
 
-### Network automation · Security validation · Practical AI
+`Consulting Engineer @ Cisco` · `CCNP Security` · `DevNet Associate`
 
-I build reliable test workflows for complex network systems—and explore how AI can make engineering work clearer, faster, and more repeatable.
-
-[LinkedIn](https://www.linkedin.com/in/akshit-kathuria/) · [GitHub](https://github.com/ak-debug)
+[LinkedIn](https://www.linkedin.com/in/akshit-kathuria/) · [Projects](#selected-tools)
 
 </div>
 
----
+```console
+$ whoami
+Akshit Kathuria
 
-### A little about my work
+$ focus
+network test automation | security validation | practical AI
+```
 
-I’m a Consulting Engineer at Cisco focused on network test automation and security validation. My day-to-day work brings together Python, Robot Framework, and enterprise networking.
+## `./about`
 
-- 🤖 Exploring practical AI-assisted engineering workflows
-- 🌍 Presented network test automation work at Cisco’s Stuttgart office
-- 🛡️ CCNP Security · Cisco DevNet Associate
+I build reliable test workflows for complex network systems. My work brings together Python, Robot Framework, and enterprise networking, with a focus on making validation repeatable.
 
-### Things I’ve built
+## `./selected-tools`
 
-| Project | What it does |
-| --- | --- |
-| [AI Workbench](https://github.com/ak-debug/ai-workbench) | Documented building blocks for practical AI-assisted work |
+| Repository | Purpose |
+|:--|:--|
+| [AI Workbench](https://github.com/ak-debug/ai-workbench) | Practical building blocks for AI-assisted work |
 | [LG webOS Toolkit](https://github.com/ak-debug/lg-webos-toolkit) | Community toolkit and guides for LG webOS TVs |
-| [Network Scanner](https://github.com/ak-debug/Network_Scanner) | Python and Scapy utility for network discovery |
-| [Packet Sniffer](https://github.com/ak-debug/Packet_Sniffer) | Inspect traffic with useful capture and filtering options |
+| [Network Scanner](https://github.com/ak-debug/Network_Scanner) | Python and Scapy network discovery utility |
+| [Packet Sniffer](https://github.com/ak-debug/Packet_Sniffer) | Capture and inspect network traffic |
 
-### Tools I work with
+## `./stack`
 
 `Python` · `Robot Framework` · `Cisco CXTA / CXTM` · `Scapy` · `Enterprise Networking` · `Security Validation`
 
----
+## `./now`
+
+- Exploring practical AI-assisted engineering workflows
+- Shared network test automation work at Cisco’s Stuttgart office
 
 <div align="center">
 
-*Curious about the systems behind the network—and the tools that make engineering better.*
+`curious by default · secure by design`
 
 </div>

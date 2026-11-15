@@ -1,34 +1,42 @@
-# Hi, I'm Akshit Kathuria 👋
+<div align="center">
 
-**Consulting Engineer at Cisco** working on network automation and security validation.
+# Akshit Kathuria
 
-I build and maintain automated network test cases with **Robot Framework** and Cisco **CXTA/CXTM**, troubleshoot complex network scenarios, and improve repeatability in regression testing. My experience includes enterprise networking workflows such as SD-Access and Catalyst Center.
+### Network automation · Security validation · Practical AI
 
-- 🔐 **CCNP Security** · **Cisco DevNet Associate**
-- 🐍 Python · Robot Framework · Network automation · Security validation
-- 🤖 Exploring practical AI-assisted engineering workflows
-- 🌍 Presented work on network test automation at Cisco's Stuttgart office
-- 💼 [LinkedIn](https://www.linkedin.com/in/akshit-kathuria/)
+I build reliable test workflows for complex network systems—and explore how AI can make engineering work clearer, faster, and more repeatable.
 
-## Selected projects
+[LinkedIn](https://www.linkedin.com/in/akshit-kathuria/) · [GitHub](https://github.com/ak-debug)
 
-### Network engineering and security
-
-- [Network Scanner](https://github.com/ak-debug/Network_Scanner) — Python and Scapy utility for TCP SYN scans, ARP discovery, and ICMP ping sweeps.
-- [Packet Sniffer](https://github.com/ak-debug/Packet_Sniffer) — Capture and inspect traffic with interface, BPF expression, keyword, and packet-count filters.
-- [Vulnerability Scanner](https://github.com/ak-debug/Vulnerability_Scanner) — Educational XSS scanner for authorized testing.
-- [MAC Changer](https://github.com/ak-debug/MAC_Changer) — Tkinter utility to change or restore a Linux network interface's MAC address.
-
-### Other work
-
-- [AI Workbench](https://github.com/ak-debug/ai-workbench) — A collection of documented building blocks for AI-assisted work.
-- [LG webOS Toolkit](https://github.com/ak-debug/lg-webos-toolkit) — Community project and practical guides for LG webOS TVs.
-- [Security blog](https://ak-debug.github.io/) — Security notes and articles.
-
-## What I’m learning
-
-I’m continuing to deepen my work in network security, particularly Cisco Secure Firewall (FTD), Cisco ISE, and security solution validation.
+</div>
 
 ---
 
-*Security tools in my repositories are for learning and authorized testing. Always get permission before testing systems you do not own.*
+### A little about my work
+
+I’m a Consulting Engineer at Cisco focused on network test automation and security validation. My day-to-day work brings together Python, Robot Framework, and enterprise networking.
+
+- 🤖 Exploring practical AI-assisted engineering workflows
+- 🌍 Presented network test automation work at Cisco’s Stuttgart office
+- 🛡️ CCNP Security · Cisco DevNet Associate
+
+### Things I’ve built
+
+| Project | What it does |
+| --- | --- |
+| [AI Workbench](https://github.com/ak-debug/ai-workbench) | Documented building blocks for practical AI-assisted work |
+| [LG webOS Toolkit](https://github.com/ak-debug/lg-webos-toolkit) | Community toolkit and guides for LG webOS TVs |
+| [Network Scanner](https://github.com/ak-debug/Network_Scanner) | Python and Scapy utility for network discovery |
+| [Packet Sniffer](https://github.com/ak-debug/Packet_Sniffer) | Inspect traffic with useful capture and filtering options |
+
+### Tools I work with
+
+`Python` · `Robot Framework` · `Cisco CXTA / CXTM` · `Scapy` · `Enterprise Networking` · `Security Validation`
+
+---
+
+<div align="center">
+
+*Curious about the systems behind the network—and the tools that make engineering better.*
+
+</div>
